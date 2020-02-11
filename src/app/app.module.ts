@@ -9,11 +9,11 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {AngularMaterialModule} from './angular-material.module';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
-
+import {PracticeModule} from './practice/practice.module';
 
 
 const routes: Routes = [
-  {path: '', loadChildren: './passenger-dashboard/passenger-dashboard.module'}
+  {path: '', loadChildren: './practice/practice.module#PracticeModule'}
 ];
 
 @NgModule({
@@ -23,13 +23,13 @@ const routes: Routes = [
   imports: [
     BrowserModule,
     CommonModule,
-    PassengerDashboardModule,
     HttpClientModule,
     RouterModule.forRoot(routes),
     BrowserAnimationsModule,
     AngularMaterialModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    PracticeModule
   ],
   bootstrap: [AppComponent]
 })

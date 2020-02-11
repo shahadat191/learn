@@ -1,39 +1,25 @@
 {
-  "passengers": [
+  "articles": [
     {
-      "id": 1,
-      "fullname": "Steve",
-      "checkedIn": true,
-      "checkInDate": 1490742000000,
-      "baggage": ""
+      "id": "nat",
+      "title": "Lorem ipsum",
+      "article": " ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam sollicitudin tempor id. Egestas sed tempus urna et pharetra pharetra. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Condimentum lacinia quis vel eros donec ac. Pellentesque massa placerat duis ultricies lacus sed. Augue eget arcu dictum varius duis. Tincidunt eget nullam non nisi est sit amet facilisis. Mattis rhoncus urna neque viverra. Lacinia quis vel eros donec ac. Id cursus metus aliquam eleifend. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Lectus quam id leo in.\n\nSit amet massa vitae tortor condimentum lacinia quis. Arcu cursus euismod quis viverra. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Odio pellentesque diam volutpat commodo sed egestas egestas. Velit laoreet id donec ultrices tincidunt arcu non sodales. Eu turpis egestas pretium aenean pharetra. Sapien eget mi proin sed libero enim. Faucibus et molestie ac feugiat. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Odio facilisis mauris sit amet. Dolor morbi non arcu risus quis varius quam quisque id. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl.\n\nAmet aliquam id diam maecenas ultricies. In nisl nisi scelerisque eu ultrices vitae auctor eu augue. Vitae tortor condimentum lacinia quis vel. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Risus feugiat in ante metus dictum at tempor commodo. Velit egestas dui id ornare arcu odio ut sem. Vitae aliquet nec ullamcorper sit amet. Cursus in hac habitasse platea dictumst. Semper eget duis at tellus at urna. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Eget sit amet tellus cras adipiscing enim. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. "
+
     },
     {
-      "id": 2,
-      "fullname": "Rose",
-      "checkedIn": false,
-      "checkInDate": null,
-      "baggage": ""
+      "id": "mat",
+      "title": "Eiusmod tempor",
+      "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam sollicitudin tempor id. Egestas sed tempus urna et pharetra pharetra. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Condimentum lacinia quis vel eros donec ac. Pellentesque massa placerat duis ultricies lacus sed. Augue eget arcu dictum varius duis. Tincidunt eget nullam non nisi est sit amet facilisis. Mattis rhoncus urna neque viverra. Lacinia quis vel eros donec ac. Id cursus metus aliquam eleifend. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Lectus quam id leo in.\n\nSit amet massa vitae tortor condimentum lacinia quis. Arcu cursus euismod quis viverra. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Odio pellentesque diam volutpat commodo sed egestas egestas. Velit laoreet id donec ultrices tincidunt arcu non sodales. Eu turpis egestas pretium aenean pharetra. Sapien eget mi proin sed libero enim. Faucibus et molestie ac feugiat. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Odio facilisis mauris sit amet. Dolor morbi non arcu risus quis varius quam quisque id. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl.\n\nAmet aliquam id diam maecenas ultricies. In nisl nisi scelerisque eu ultrices vitae auctor eu augue. Vitae tortor condimentum lacinia quis vel. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Risus feugiat in ante metus dictum at tempor commodo. Velit egestas dui id ornare arcu odio ut sem. Vitae aliquet nec ullamcorper sit amet. Cursus in hac habitasse platea dictumst. Semper eget duis at tellus at urna. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Eget sit amet tellus cras adipiscing enim. Porttitor lacus luctus accumsan tortor posuere ac ut consequat.  "
     },
     {
-      "id": 3,
-      "fullname": "Todd",
-      "checkedIn": true,
-      "checkInDate": 1488412800000,
-      "baggage": ""
+      "id": "cat",
+      "title": "Labore et dolore",
+      "article": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam sollicitudin tempor id. Egestas sed tempus urna et pharetra pharetra. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Condimentum lacinia quis vel eros donec ac. Pellentesque massa placerat duis ultricies lacus sed. Augue eget arcu dictum varius duis. Tincidunt eget nullam non nisi est sit amet facilisis. Mattis rhoncus urna neque viverra. Lacinia quis vel eros donec ac. Id cursus metus aliquam eleifend. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Lectus quam id leo in.\n\nSit amet massa vitae tortor condimentum lacinia quis. Arcu cursus euismod quis viverra. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Odio pellentesque diam volutpat commodo sed egestas egestas. Velit laoreet id donec ultrices tincidunt arcu non sodales. Eu turpis egestas pretium aenean pharetra. Sapien eget mi proin sed libero enim. Faucibus et molestie ac feugiat. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Odio facilisis mauris sit amet. Dolor morbi non arcu risus quis varius quam quisque id. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl.\n\nAmet aliquam id diam maecenas ultricies. In nisl nisi scelerisque eu ultrices vitae auctor eu augue. Vitae tortor condimentum lacinia quis vel. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Risus feugiat in ante metus dictum at tempor commodo. Velit egestas dui id ornare arcu odio ut sem. Vitae aliquet nec ullamcorper sit amet. Cursus in hac habitasse platea dictumst. Semper eget duis at tellus at urna. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Eget sit amet tellus cras adipiscing enim. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. "
     },
     {
-      "id": 4,
-      "fullname": "Louise",
-      "checkedIn": true,
-      "checkInDate": 1488412800000,
-      "baggage": ""
-    },
-    {
-      "id": 5,
-      "fullname": "Tina",
-      "checkedIn": false,
-      "checkInDate": null,
-      "baggage": ""
+      "id": "lat",
+      "title": "Porttitor leo",
+      "article": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam sollicitudin tempor id. Egestas sed tempus urna et pharetra pharetra. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Condimentum lacinia quis vel eros donec ac. Pellentesque massa placerat duis ultricies lacus sed. Augue eget arcu dictum varius duis. Tincidunt eget nullam non nisi est sit amet facilisis. Mattis rhoncus urna neque viverra. Lacinia quis vel eros donec ac. Id cursus metus aliquam eleifend. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Lectus quam id leo in.\n\nSit amet massa vitae tortor condimentum lacinia quis. Arcu cursus euismod quis viverra. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Odio pellentesque diam volutpat commodo sed egestas egestas. Velit laoreet id donec ultrices tincidunt arcu non sodales. Eu turpis egestas pretium aenean pharetra. Sapien eget mi proin sed libero enim. Faucibus et molestie ac feugiat. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Odio facilisis mauris sit amet. Dolor morbi non arcu risus quis varius quam quisque id. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl.\n\nAmet aliquam id diam maecenas ultricies. In nisl nisi scelerisque eu ultrices vitae auctor eu augue. Vitae tortor condimentum lacinia quis vel. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Risus feugiat in ante metus dictum at tempor commodo. Velit egestas dui id ornare arcu odio ut sem. Vitae aliquet nec ullamcorper sit amet. Cursus in hac habitasse platea dictumst. Semper eget duis at tellus at urna. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Eget sit amet tellus cras adipiscing enim. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. "
     }
   ]
 }

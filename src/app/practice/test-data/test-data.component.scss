@@ -1,0 +1,56 @@
+.container {
+  background: lightgrey;
+  color: black;
+  font-weight: bold;
+  margin: 15px 0px;
+  font-weight: bold;
+  text-align: justify;
+  border-radius: 10px;
+}
+
+.main {
+  border: 1px solid lightgrey;
+  width: 600px;
+  float: left;
+}
+.heading {
+  text-align: center;
+  padding: 15px 0px 15px 0px;
+  margin: 0px;
+  font-weight: bold;
+}
+
+.contents{
+  background: white;
+  overflow: scroll;
+  height: 600px;
+}
+
+.title {
+  background: #1e3d59;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.content {
+  padding: 15px;
+}
+
+.mat-list-base {
+  padding: 0px;
+}
+
+.list {
+  background: white;
+  color: black;
+  padding: 0px;
+  margin-top: 70px;
+  width: 200px;
+  float: left;
+}
+
+.menu {
+  border: 1px solid grey;
+}

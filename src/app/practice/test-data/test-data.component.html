@@ -1,0 +1,36 @@
+<html>
+  <body>
+
+
+  <h1>{{location.ge}</h1>
+  <h1>HashLocationStrategy</h1>
+  Current URL is: <code>{{location.path()}}</code><br>
+
+
+  <div class = "list">
+    <mat-list>
+      <mat-list-item  class = "menu" *ngFor = "let article of articles">
+        <a  [routerLink]='"."' [fragment]="article.id">{{article.id}}</a>
+
+      </mat-list-item>
+    </mat-list>
+  </div>
+  <div class = "main">
+    <h1 class = "heading"> Information & Communication Technology</h1>
+    <div class = "contents">
+      <ng-container *ngFor="let article of articles">
+        <div id = "{{article.id}}" class="container">
+          <h1 class = "title"> {{article.title}} </h1>
+          <div class = "content">
+            {{article.article}}
+          </div>
+        </div>
+      </ng-container>
+    </div>
+
+  </div>
+
+
+
+  </body>
+</html>
